@@ -55,7 +55,7 @@ To get a local copy installed and working, follow these steps:
 
 ## 🟪 Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/henriqueclaranhan/telegram-music-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A13X-60/telegram-music-downloader-bot?organization=A13X-60&organization=A13X-60)
 
 
 ## 📷 Screenshot
